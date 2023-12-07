@@ -1,1 +1,1 @@
-print('Hello World byyyy SePiCi')
+print('Hello World by SePiCi')
